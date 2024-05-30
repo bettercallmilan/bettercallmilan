@@ -1,7 +1,7 @@
-# Hello, I'm Milan! 👋
+# milan
 
-- 🇨🇭 Based in Switzerland
-- 🎓 18 years old
+- 🇨🇭
+- 🎓 18 y.o.
 - 💻 Learning C# and HTML
-- 🚀 Passionate about programming
+
 
