@@ -1,7 +1,7 @@
 # milan
 
 - 🇨🇭
-- 🎓 18 y.o.
-- 💻 Learning C# and HTML
+- 18
+- C#, HTML
 
 
