@@ -30,6 +30,6 @@ Passionate developer focused on creating elegant solutions. Currently learning a
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=protonmail)](mailto:jankovic.milan@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bettercallmilan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/milan--jankovic)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bettercallmilan)
 [![Website](https://img.shields.io/badge/Website-58a6ff?style=for-the-badge&logo=google-chrome)](https://bettercallmilan.github.io)
