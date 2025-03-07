@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/JXfpgdX.gif](https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif)" width="100%" alt="Header">
+  <img src="https://i.imgur.com/JXfpgdX.gif](https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif" width="100%" alt="Header">
 </p>
 
 # Milan Jankovic (@bettercallmilan)
