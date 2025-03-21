@@ -6,9 +6,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFF&center=false&vCenter=false&random=false&width=435&lines=Hi%2C+I'm+Milan+Jankovic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Milan+Jankovic" alt="Typing SVG" />
   </a>
 </div>
+
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-58a6ff?style=for-the-badge)
 
 ## 👨‍💻・Profile
