@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFFFFF&left=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Milan+Jankovic" alt="Typing SVG" />
   </a>
   <br>
-  <span style="color:gray">&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;&#9473;</span>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1&width=435" />
 </div>
 <br>
   
