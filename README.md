@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<hr width="435">
+<hr width="435" size="1">
 
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-58a6ff?style=for-the-badge)
 
