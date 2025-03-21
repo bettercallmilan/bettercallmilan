@@ -2,10 +2,14 @@
   <img src="https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif" width="100%" height="220px" alt="Header">
 </p>
 
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FFFFFF&left=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Milan+Jankovic" alt="Typing SVG" />
   </a>
-  <div style="border-bottom: 2px solid white; margin-top: 10px; width: 435px;"></div>
+  <br>
+  <svg width="435" height="2">
+    <line x1="0" y1="1" x2="435" y2="1" stroke="white" stroke-width="2" />
+  </svg>
 </div>
 
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-58a6ff?style=for-the-badge)
