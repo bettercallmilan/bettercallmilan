@@ -18,7 +18,7 @@
 Passionate developer focused on creating elegant solutions. Currently learning and building projects with C#, JavaScript, and web technologies.
 
 - 🌍 **Location:** Switzerland
-- 🔍 **Current Focus:** Building my portfolio and expanding my skillset
+- 🔍 **Currenty working on:** Discord Economy Bot using Python (https://github.com/IM23d/discord-balance-bot/)
 
 ## 🛠️・Skills
 
