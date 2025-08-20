@@ -13,12 +13,13 @@
   
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-58a6ff?style=for-the-badge)
 
-## 👨‍💻・Profile
+## 👨‍💻 Profile
 
-Passionate developer focused on creating elegant solutions. Currently learning and building projects with C#, JavaScript, and web technologies.
+Swiss developer passionate about crafting clean code and solving real problems. I love experimenting with new technologies and turning creative ideas into functional applications.
 
-- 🌍 **Location:** Switzerland
-- 🔍 **Currenty working on:** Discord Economy Bot using Python (https://github.com/IM23d/discord-balance-bot/)
+**🌍 Location:** Switzerland  
+**🔨 Currently building:** Discord Economy Bot using Python → [discord-balance-bot](https://github.com/IM23d/discord-balance-bot/)  
+**💻 Tech I work with:** C#, JavaScript, Python, Web Technologies
 
 ## 🛠️・Skills
 
