@@ -69,8 +69,6 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 <div align="left">
 
-### Featured Projects
-
 - 🏠 [Household Management](https://github.com/bettercallmilan/Lernatelier_2024-2025)
 - 🌐 [Personal Website](https://github.com/bettercallmilan/bettercallmilan.github.io)
 - 📸 [Photography Website](https://github.com/bettercallmilan/lens)
