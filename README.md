@@ -13,12 +13,16 @@
   
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-382d68?style=for-the-badge)
 
+<br>
+
 ## 👨‍💻・About Me
 
 Developer from Switzerland who enjoys coding and building useful applications.
 
 **🌍 Location:** Switzerland  
 **🔨 Currently building:** Mobile App for Household Management → [Repository](https://github.com/bettercallmilan/Lernatelier_2025-2026)  
+
+<br>
 
 ## 🛠️・Technical Skills
 
@@ -65,6 +69,8 @@ Developer from Switzerland who enjoys coding and building useful applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
 ## 🗂️・Projects
 
 <div align="left">
@@ -77,6 +83,8 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 </div>
 
+<br>
+
 ## 📊・GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bettercallmilan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=5c569b&text_color=c9d1d9&icon_color=382d68)
@@ -85,13 +93,14 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bettercallmilan&theme=github-compact&bg_color=0d1117&color=5c569b&line=5c569b&point=c9d1d9)
 
+<br>
+
 ## 📫・Contact
 
 [![Email](https://img.shields.io/badge/Email-382d68?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jankovic.milan@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan--jankovic)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettercallmilan)
 [![Website](https://img.shields.io/badge/Website-382d68?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bettercallmilan.github.io)
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=382d68&height=120&section=footer"/>
