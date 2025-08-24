@@ -13,7 +13,6 @@
   
 ![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-382d68?style=for-the-badge)
 
-<br>
 
 ## 👨‍💻・About Me
 
@@ -22,7 +21,6 @@ Developer from Switzerland who enjoys coding and building useful applications.
 **🌍 Location:** Switzerland  
 **🔨 Currently building:** Mobile App for Household Management → [Repository](https://github.com/bettercallmilan/Lernatelier_2025-2026)  
 
-<br>
 
 ## 🛠️・Technical Skills
 
@@ -69,7 +67,6 @@ Developer from Switzerland who enjoys coding and building useful applications.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
 
 ## 🗂️・Projects
 
@@ -83,7 +80,6 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 </div>
 
-<br>
 
 ## 📊・GitHub Stats
 
@@ -93,7 +89,6 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bettercallmilan&theme=github-compact&bg_color=0d1117&color=5c569b&line=5c569b&point=c9d1d9)
 
-<br>
 
 ## 📫・Contact
 
