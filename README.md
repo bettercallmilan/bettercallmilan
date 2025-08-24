@@ -22,44 +22,44 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 ## 🛠️・Technical Skills
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-7b2f7d?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🌐 Web & Mobile Development
+#### 🌐 Web & Mobile Development
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Mobile Development](https://img.shields.io/badge/Mobile_Development-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Database Technologies
+#### 🗄️ Database Technologies
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🚀 DevOps & Infrastructure
+#### 🚀 DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Processes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-FF6B35?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🔬 Data Science & Analytics
+#### 🔬 Data Science & Analytics
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Predictions](https://img.shields.io/badge/ML_Predictions-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🧪 Development Practices
+#### 🧪 Development Practices
 
 ![OOP](https://img.shields.io/badge/OOP-239120?style=for-the-badge&logo=object-oriented-programming&logoColor=white)
 ![Testing](https://img.shields.io/badge/Application_Testing-25A162?style=for-the-badge&logo=testing&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_Methods-0052CC?style=for-the-badge&logo=agile&logoColor=white)
 
-### 🛠️ Tools & Environment
+#### 🛠️ Tools & Environment
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -67,11 +67,11 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 ## 🗂️・Projects
 
-### 🏠 [Household Management](https://github.com/bettercallmilan/Lernatelier_2024-2025)
-### 🌐 [Personal Website](https://github.com/bettercallmilan/bettercallmilan.github.io)
-### 📸 [Photography Website](https://github.com/bettercallmilan/lens)
-### 🤖 [Leurs - Discord Bot](https://github.com/IM23d/leurs)
-### 🔍 [EOTIR](https://github.com/bettercallmilan/EOTIR)
+🏠 [Household Management](https://github.com/bettercallmilan/Lernatelier_2024-2025)
+🌐 [Personal Website](https://github.com/bettercallmilan/bettercallmilan.github.io)
+📸 [Photography Website](https://github.com/bettercallmilan/lens)
+🤖 [Leurs - Discord Bot](https://github.com/IM23d/leurs)
+🔍 [EOTIR](https://github.com/bettercallmilan/EOTIR)
 
 ## 📊・GitHub Stats
 
