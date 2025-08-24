@@ -67,19 +67,25 @@ Developer from Switzerland who enjoys coding and building useful applications.
 
 ## 🗂️・Projects
 
-🏠 [Household Management](https://github.com/bettercallmilan/Lernatelier_2024-2025)
-🌐 [Personal Website](https://github.com/bettercallmilan/bettercallmilan.github.io)
-📸 [Photography Website](https://github.com/bettercallmilan/lens)
-🤖 [Leurs - Discord Bot](https://github.com/IM23d/leurs)
-🔍 [EOTIR](https://github.com/bettercallmilan/EOTIR)
+<div align="left">
+
+### Featured Projects
+
+- 🏠 [Household Management](https://github.com/bettercallmilan/Lernatelier_2024-2025)
+- 🌐 [Personal Website](https://github.com/bettercallmilan/bettercallmilan.github.io)
+- 📸 [Photography Website](https://github.com/bettercallmilan/lens)
+- 🤖 [Leurs - Discord Bot](https://github.com/IM23d/leurs)
+- 🔍 [EOTIR](https://github.com/bettercallmilan/EOTIR)
+
+</div>
 
 ## 📊・GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bettercallmilan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=382d68&text_color=c9d1d9&icon_color=382d68)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bettercallmilan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=5c569b&text_color=c9d1d9&icon_color=382d68)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmilan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=382d68&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmilan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=5c569b&text_color=c9d1d9)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bettercallmilan&theme=github-compact&bg_color=0d1117&color=382d68&line=382d68&point=c9d1d9)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bettercallmilan&theme=github-compact&bg_color=0d1117&color=5c569b&line=5c569b&point=c9d1d9)
 
 ## 📫・Contact
 
