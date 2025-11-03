@@ -19,7 +19,7 @@
 Developer from Switzerland who enjoys coding and building useful applications.
 
 **🌍 Location:** Switzerland  
-**🔨 Currently building:** Mobile App for Household Management → [Repository](https://github.com/bettercallmilan/Lernatelier_2025-2026)  
+**🔨 Currently building:** Mobile App for Simulated Banking → [Repository](https://github.com/reazndev/purbank-mobile-app)  
 
 
 ## 🛠️・Technical Skills
