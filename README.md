@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif" width="100%" height="220px" alt="Header">
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=ffffff&left=true&vCenter=true&random=false&width=265&lines=Hi%2C+I'm+Milan+Jankovic" alt="Typing SVG" />
@@ -11,8 +7,9 @@
 </div>
 <br>
 
-<div align="center">
-<img width="600" height="218" alt="butterflies" src="https://github.com/user-attachments/assets/9a8bd2e4-361a-478e-bf5b-05d1a1d9e588" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/78/08/ef/7808ef4266899433cbdeb4a113f12974.gif" width="100%" height="220px" alt="Header">
+</p>
 
 <div align="center">
 
