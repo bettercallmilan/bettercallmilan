@@ -12,6 +12,9 @@
 <br>
 
 <div align="center">
+<img width="600" height="218" alt="butterflies" src="https://github.com/user-attachments/assets/9a8bd2e4-361a-478e-bf5b-05d1a1d9e588" />
+
+<div align="center">
 
 ## 𖨆 *about me*
 
@@ -67,8 +70,8 @@ Hi, I'm ***Milan***, currently studying informatics with a business-focused
 ## ✉︎ *contact*
 
 [![Email](https://img.shields.io/badge/Email-382d68?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jankovic.milan@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan--jankovic)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettercallmilan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-382d68?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan--jankovic)
+[![GitHub](https://img.shields.io/badge/GitHub-382d68?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettercallmilan)
 [![Website](https://img.shields.io/badge/Website-382d68?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bettercallmilan.github.io)
 
 <div align="center">
