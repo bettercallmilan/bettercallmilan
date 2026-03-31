@@ -10,11 +10,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2f353d&height=1&width=1012"/>
 </div>
 <br>
-  
-![Header Image](https://img.shields.io/badge/Developer-Milan%20Jankovic-382d68?style=for-the-badge)
 
 
-## 👨‍💻・About Me
+<div align="center">
+
+## 𖨆 *About Me*
 
 Developer from Switzerland who enjoys coding and building useful applications.
 
@@ -22,7 +22,7 @@ Developer from Switzerland who enjoys coding and building useful applications.
 **🔨 Currently building:** Mobile App for Simulated Banking → [Repository](https://github.com/reazndev/purbank-mobile-app)  
 
 
-## 🛠️・Technical Skills
+## </> *Technical Skills*
 
 #### 💻 Programming Languages
 
@@ -68,7 +68,7 @@ Developer from Switzerland who enjoys coding and building useful applications.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 🗂️・Projects
+## ✎ *Projects*
 
 <div align="left">
 
@@ -81,7 +81,7 @@ Developer from Switzerland who enjoys coding and building useful applications.
 </div>
 
 
-## 📊・GitHub Stats
+##  ၊၊||၊ *GitHub Stats*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bettercallmilan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=5c569b&text_color=c9d1d9&icon_color=382d68)
 
@@ -90,7 +90,7 @@ Developer from Switzerland who enjoys coding and building useful applications.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bettercallmilan&theme=github-compact&bg_color=0d1117&color=5c569b&line=5c569b&point=c9d1d9)
 
 
-## 📫・Contact
+## ✉︎ *Contact*
 
 [![Email](https://img.shields.io/badge/Email-382d68?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:jankovic.milan@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milan--jankovic)
