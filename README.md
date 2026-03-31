@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-<img width="1000" height="188" alt="butterflies" src="https://github.com/user-attachments/assets/07af9854-a8a0-4c3a-a89f-7e1db061f590" />
+<img width="800" height="150" alt="butterflies" src="https://github.com/user-attachments/assets/07af9854-a8a0-4c3a-a89f-7e1db061f590" />
 
 <div align="center">
 
